@@ -10,4 +10,4 @@ Program Bubble Sort Pengurutan data
   - Sangat Tidak Efisien untuk Kumpulan Data Besar
   - Tidak Praktis untuk Penggunaan di Dunia Nyata (Production)
   - Terlalu Banyak Melakukan Pertukaran (Swap)
->>>>>>> 035f6b27778c0f3d38f2ffbe12518d27e50b331c
+
